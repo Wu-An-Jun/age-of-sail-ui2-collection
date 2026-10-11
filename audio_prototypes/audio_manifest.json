@@ -1,0 +1,592 @@
+[
+  {
+    "id": "S01",
+    "file": "ui_tap_wood_01.ogg",
+    "duration_seconds": 0.08,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Knuckle on oak; the default button tap."
+  },
+  {
+    "id": "S01",
+    "file": "ui_tap_wood_02.ogg",
+    "duration_seconds": 0.08,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Knuckle on oak; the default button tap."
+  },
+  {
+    "id": "S01",
+    "file": "ui_tap_wood_03.ogg",
+    "duration_seconds": 0.08,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Knuckle on oak; the default button tap."
+  },
+  {
+    "id": "S02",
+    "file": "ui_tap_paper_01.ogg",
+    "duration_seconds": 0.08,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A soft paper tap for list rows and slots."
+  },
+  {
+    "id": "S02",
+    "file": "ui_tap_paper_02.ogg",
+    "duration_seconds": 0.08,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A soft paper tap for list rows and slots."
+  },
+  {
+    "id": "S02",
+    "file": "ui_tap_paper_03.ogg",
+    "duration_seconds": 0.08,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A soft paper tap for list rows and slots."
+  },
+  {
+    "id": "S03",
+    "file": "ui_tab_flip.ogg",
+    "duration_seconds": 0.15,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A page turning, for tabs."
+  },
+  {
+    "id": "S04",
+    "file": "ui_window_open.ogg",
+    "duration_seconds": 0.25,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Parchment unrolling; matches V12."
+  },
+  {
+    "id": "S05",
+    "file": "ui_window_close.ogg",
+    "duration_seconds": 0.2,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Parchment rolling up."
+  },
+  {
+    "id": "S06",
+    "file": "ui_confirm.ogg",
+    "duration_seconds": 0.25,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A coin set down firmly on wood, for OK and accept."
+  },
+  {
+    "id": "S07",
+    "file": "ui_deny.ogg",
+    "duration_seconds": 0.2,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A dull wooden thunk for an action that is not allowed."
+  },
+  {
+    "id": "S08",
+    "file": "ui_toggle.ogg",
+    "duration_seconds": 0.12,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A brass latch clicking over."
+  },
+  {
+    "id": "S09",
+    "file": "ui_slider_tick.ogg",
+    "duration_seconds": 0.06,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A small rope creak per step while dragging."
+  },
+  {
+    "id": "S10",
+    "file": "ui_purchase.ogg",
+    "duration_seconds": 0.6,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Coins poured into a purse; matches V01."
+  },
+  {
+    "id": "S11",
+    "file": "map_set_sail.ogg",
+    "duration_seconds": 1.2,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Canvas snapping full and a rope pulled tight when a voyage starts."
+  },
+  {
+    "id": "S12",
+    "file": "map_arrive.ogg",
+    "duration_seconds": 1.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Two strikes of a ship's bell on arrival at an island."
+  },
+  {
+    "id": "S13",
+    "file": "map_fog_reveal.ogg",
+    "duration_seconds": 1.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A wind gust that clears the fog; matches V05."
+  },
+  {
+    "id": "S14",
+    "file": "map_select_island_01.ogg",
+    "duration_seconds": 0.3,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A quill scratch when an island is selected."
+  },
+  {
+    "id": "S14",
+    "file": "map_select_island_02.ogg",
+    "duration_seconds": 0.3,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A quill scratch when an island is selected."
+  },
+  {
+    "id": "S14",
+    "file": "map_select_island_03.ogg",
+    "duration_seconds": 0.3,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A quill scratch when an island is selected."
+  },
+  {
+    "id": "S15",
+    "file": "outfit_place_01.ogg",
+    "duration_seconds": 0.3,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A hammer driving a nail; matches V13."
+  },
+  {
+    "id": "S15",
+    "file": "outfit_place_02.ogg",
+    "duration_seconds": 0.3,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A hammer driving a nail; matches V13."
+  },
+  {
+    "id": "S15",
+    "file": "outfit_place_03.ogg",
+    "duration_seconds": 0.3,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A hammer driving a nail; matches V13."
+  },
+  {
+    "id": "S16",
+    "file": "outfit_remove.ogg",
+    "duration_seconds": 0.4,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A crowbar prising a plank loose."
+  },
+  {
+    "id": "S17",
+    "file": "outfit_invalid.ogg",
+    "duration_seconds": 0.2,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Two quick knocks on wood when a module will not fit."
+  },
+  {
+    "id": "S18",
+    "file": "upgrade_success.ogg",
+    "duration_seconds": 0.9,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "An anvil strike followed by a bright chime; matches V03."
+  },
+  {
+    "id": "S19",
+    "file": "cannon_light_01.ogg",
+    "duration_seconds": 0.8,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Small cannon report with a short tail. *Replaces* shot\\_02, shot\\_03, shot\\_04."
+  },
+  {
+    "id": "S19",
+    "file": "cannon_light_02.ogg",
+    "duration_seconds": 0.8,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Small cannon report with a short tail. *Replaces* shot\\_02, shot\\_03, shot\\_04."
+  },
+  {
+    "id": "S19",
+    "file": "cannon_light_03.ogg",
+    "duration_seconds": 0.8,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Small cannon report with a short tail. *Replaces* shot\\_02, shot\\_03, shot\\_04."
+  },
+  {
+    "id": "S20",
+    "file": "cannon_heavy_01.ogg",
+    "duration_seconds": 1.4,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Deep long-gun boom with a rolling echo. *Replaces* shot\\_14, shot\\_15."
+  },
+  {
+    "id": "S20",
+    "file": "cannon_heavy_02.ogg",
+    "duration_seconds": 1.4,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Deep long-gun boom with a rolling echo. *Replaces* shot\\_14, shot\\_15."
+  },
+  {
+    "id": "S20",
+    "file": "cannon_heavy_03.ogg",
+    "duration_seconds": 1.4,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Deep long-gun boom with a rolling echo. *Replaces* shot\\_14, shot\\_15."
+  },
+  {
+    "id": "S21",
+    "file": "carronade_01.ogg",
+    "duration_seconds": 1.0,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Short, punchy, low thump. *Replaces* shot\\_05, shot\\_08."
+  },
+  {
+    "id": "S21",
+    "file": "carronade_02.ogg",
+    "duration_seconds": 1.0,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Short, punchy, low thump. *Replaces* shot\\_05, shot\\_08."
+  },
+  {
+    "id": "S22",
+    "file": "swivel_musket_01.ogg",
+    "duration_seconds": 0.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A sharp crack for swivel guns and muskets. *Replaces* the flux\\_01\u2013flux\\_06 energy hums."
+  },
+  {
+    "id": "S22",
+    "file": "swivel_musket_02.ogg",
+    "duration_seconds": 0.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A sharp crack for swivel guns and muskets. *Replaces* the flux\\_01\u2013flux\\_06 energy hums."
+  },
+  {
+    "id": "S22",
+    "file": "swivel_musket_03.ogg",
+    "duration_seconds": 0.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A sharp crack for swivel guns and muskets. *Replaces* the flux\\_01\u2013flux\\_06 energy hums."
+  },
+  {
+    "id": "S23",
+    "file": "harpoon_fire.ogg",
+    "duration_seconds": 0.7,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Crossbow twang plus rope paying out. *Replaces* launch\\_07, launch\\_08, launch\\_09."
+  },
+  {
+    "id": "S24",
+    "file": "hit_timber_01.ogg",
+    "duration_seconds": 0.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Shot smashing into planks with splinters. *Replaces* hit\\_04, hit\\_09."
+  },
+  {
+    "id": "S24",
+    "file": "hit_timber_02.ogg",
+    "duration_seconds": 0.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Shot smashing into planks with splinters. *Replaces* hit\\_04, hit\\_09."
+  },
+  {
+    "id": "S24",
+    "file": "hit_timber_03.ogg",
+    "duration_seconds": 0.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Shot smashing into planks with splinters. *Replaces* hit\\_04, hit\\_09."
+  },
+  {
+    "id": "S25",
+    "file": "splash_miss_01.ogg",
+    "duration_seconds": 0.6,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A shot plunging into the sea; plays with the water-impact effect."
+  },
+  {
+    "id": "S25",
+    "file": "splash_miss_02.ogg",
+    "duration_seconds": 0.6,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A shot plunging into the sea; plays with the water-impact effect."
+  },
+  {
+    "id": "S25",
+    "file": "splash_miss_03.ogg",
+    "duration_seconds": 0.6,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A shot plunging into the sea; plays with the water-impact effect."
+  },
+  {
+    "id": "S26",
+    "file": "ship_sinking.ogg",
+    "duration_seconds": 3.0,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Timbers groaning, a mast cracking and water rushing in."
+  },
+  {
+    "id": "S27",
+    "file": "amb_sea_loop.ogg",
+    "duration_seconds": 30.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "loop": true,
+    "status": "synthesized_audition_prototype",
+    "description": "Open-sea ambience: wind and waves, seamless loop, stereo."
+  },
+  {
+    "id": "S28",
+    "file": "amb_hull_creak_loop.ogg",
+    "duration_seconds": 20.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "loop": true,
+    "status": "synthesized_audition_prototype",
+    "description": "Hull and rigging creaks under sail, layered by speed. *Replaces* the engine drone."
+  },
+  {
+    "id": "S29",
+    "file": "alarm_bell.ogg",
+    "duration_seconds": 1.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Rapid ship's-bell ringing for low hull and incoming threats. *Replaces* alarm, alarm2."
+  },
+  {
+    "id": "S30",
+    "file": "sting_victory.ogg",
+    "duration_seconds": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Short brass and fiddle fanfare under the victory banner."
+  },
+  {
+    "id": "S31",
+    "file": "sting_defeat.ogg",
+    "duration_seconds": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A low, falling cello line under the defeat banner."
+  },
+  {
+    "id": "S32",
+    "file": "longboat_launch_01.ogg",
+    "duration_seconds": 1.0,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Davit ropes paying out, a splash, then oars biting; matches V24."
+  },
+  {
+    "id": "S32",
+    "file": "longboat_launch_02.ogg",
+    "duration_seconds": 1.0,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Davit ropes paying out, a splash, then oars biting; matches V24."
+  },
+  {
+    "id": "S33",
+    "file": "tender_lash.ogg",
+    "duration_seconds": 0.8,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A rope thrown and cleated; matches V25."
+  },
+  {
+    "id": "S34",
+    "file": "anchor_drop.ogg",
+    "duration_seconds": 1.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "Chain rattling through the hawse, then a heavy splash; matches V27."
+  },
+  {
+    "id": "S35",
+    "file": "smoke_pot.ogg",
+    "duration_seconds": 1.2,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A hiss and soft whump as the smoke pot catches; matches V26."
+  },
+  {
+    "id": "S36",
+    "file": "carpenter_repair_loop.ogg",
+    "duration_seconds": 2.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "loop": true,
+    "status": "synthesized_audition_prototype",
+    "description": "Hammering and a saw, low in the mix, while repairs run."
+  },
+  {
+    "id": "S37",
+    "file": "chain_snap.ogg",
+    "duration_seconds": 0.6,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A metal chain parting under strain; matches V31."
+  },
+  {
+    "id": "S38",
+    "file": "boss_horn.ogg",
+    "duration_seconds": 2.5,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A deep war horn when a boss appears or changes phase; matches V30."
+  },
+  {
+    "id": "S39",
+    "file": "fort_cannonade.ogg",
+    "duration_seconds": 2.0,
+    "sample_rate": 44100,
+    "channels": 1,
+    "loop": false,
+    "status": "synthesized_audition_prototype",
+    "description": "A rolling volley from fort batteries, heavier and slower than ship guns."
+  }
+]

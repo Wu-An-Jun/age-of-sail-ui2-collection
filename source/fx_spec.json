@@ -1,0 +1,374 @@
+[
+  {
+    "id": "V01",
+    "path": "fx/coin_burst",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 12,
+    "fps": 24,
+    "loop": false,
+    "desc": "Gold coins pop out and scatter when a reward or sale lands."
+  },
+  {
+    "id": "V02",
+    "path": "fx/coin_fly",
+    "size": [
+      48,
+      48
+    ],
+    "frames": 8,
+    "fps": 24,
+    "loop": true,
+    "desc": "A single spinning coin; code flies several of them to the gold counter."
+  },
+  {
+    "id": "V03",
+    "path": "fx/levelup_burst",
+    "size": [
+      256,
+      256
+    ],
+    "frames": 14,
+    "fps": 20,
+    "loop": false,
+    "desc": "Golden rays and sparkles for rank-ups and maxed skills."
+  },
+  {
+    "id": "V04",
+    "path": "fx/seal_stamp",
+    "size": [
+      256,
+      256
+    ],
+    "frames": 8,
+    "fps": 24,
+    "loop": false,
+    "desc": "A wax seal is pressed down with a small squash and a dust ring."
+  },
+  {
+    "id": "V05",
+    "path": "fx/fog_clear",
+    "size": [
+      512,
+      512
+    ],
+    "frames": 12,
+    "fps": 16,
+    "loop": false,
+    "desc": "A cloud bank (F05) breaks apart and drifts off when waters are charted."
+  },
+  {
+    "id": "V06",
+    "path": "fx/pin_pulse",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 10,
+    "fps": 12,
+    "loop": true,
+    "desc": "A soft ink ripple under the selected island pin."
+  },
+  {
+    "id": "V07",
+    "path": "fx/map_ship_bob",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 6,
+    "fps": 6,
+    "loop": true,
+    "desc": "The chart's ship marker (F02) rocks gently and its sails fill."
+  },
+  {
+    "id": "V08",
+    "path": "fx/route_ink",
+    "size": [
+      64,
+      16
+    ],
+    "frames": 6,
+    "fps": 18,
+    "loop": false,
+    "desc": "A route dash being drawn in ink; code plays it along the route."
+  },
+  {
+    "id": "V09",
+    "path": "fx/compass_wobble",
+    "size": [
+      64,
+      256
+    ],
+    "frames": 8,
+    "fps": 8,
+    "loop": true,
+    "desc": "The compass needle (F01) settles and wobbles slightly."
+  },
+  {
+    "id": "V10",
+    "path": "fx/chest_open",
+    "size": [
+      256,
+      256
+    ],
+    "frames": 12,
+    "fps": 20,
+    "loop": false,
+    "desc": "The chest (I04) lid opens and a gleam escapes."
+  },
+  {
+    "id": "V11",
+    "path": "fx/ribbon_unfurl",
+    "size": [
+      1024,
+      256
+    ],
+    "frames": 10,
+    "fps": 24,
+    "loop": false,
+    "desc": "The result and reward ribbons (G10, I03) unroll from the centre outwards."
+  },
+  {
+    "id": "V12",
+    "path": "fx/parchment_unroll",
+    "size": [
+      256,
+      256
+    ],
+    "frames": 6,
+    "fps": 30,
+    "loop": false,
+    "desc": "Paper curl used as a mask when a window opens (3.7)."
+  },
+  {
+    "id": "V13",
+    "path": "fx/module_install",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 8,
+    "fps": 24,
+    "loop": false,
+    "desc": "Hammer strikes and wood chips when a module is placed."
+  },
+  {
+    "id": "V14",
+    "path": "fx/dust_puff",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 8,
+    "fps": 24,
+    "loop": false,
+    "desc": "Sawdust puff when a module is removed or sold."
+  },
+  {
+    "id": "V15",
+    "path": "fx/reload_ready",
+    "size": [
+      160,
+      160
+    ],
+    "frames": 6,
+    "fps": 24,
+    "loop": false,
+    "desc": "A brass glint around the weapon button (G03) when the gun is ready."
+  },
+  {
+    "id": "V16",
+    "path": "fx/low_hull_vignette",
+    "size": [
+      512,
+      512
+    ],
+    "frames": 8,
+    "fps": 8,
+    "loop": true,
+    "desc": "Splashing water and a red edge at the screen corners when hull is under 25%. Code mirrors it to all four corners."
+  },
+  {
+    "id": "V17",
+    "path": "fx/deck_fire",
+    "size": [
+      64,
+      96
+    ],
+    "frames": 8,
+    "fps": 12,
+    "loop": true,
+    "desc": "Small flames on deck for the burning status. Drawn above the hull."
+  },
+  {
+    "id": "V18",
+    "path": "fx/flooding",
+    "size": [
+      128,
+      64
+    ],
+    "frames": 8,
+    "fps": 10,
+    "loop": true,
+    "desc": "Bubbles and foam along the waterline for the flooding status."
+  },
+  {
+    "id": "V19",
+    "path": "fx/chain_shot",
+    "size": [
+      64,
+      64
+    ],
+    "frames": 4,
+    "fps": 20,
+    "loop": true,
+    "desc": "A spinning chain shot (two balls and a chain), seen from above."
+  },
+  {
+    "id": "V20",
+    "path": "fx/grape_puff",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 8,
+    "fps": 24,
+    "loop": false,
+    "desc": "A cone of smoke and pellets for grapeshot weapons."
+  },
+  {
+    "id": "V21",
+    "path": "fx/sail_ripple",
+    "size": [
+      512,
+      512
+    ],
+    "frames": 8,
+    "fps": 8,
+    "loop": true,
+    "desc": "The menu galleon's sails ripple in the wind (overlay on A05)."
+  },
+  {
+    "id": "V22",
+    "path": "fx/gulls",
+    "size": [
+      96,
+      64
+    ],
+    "frames": 8,
+    "fps": 10,
+    "loop": true,
+    "desc": "One gull flapping; code moves a few across the menu sky."
+  },
+  {
+    "id": "V23",
+    "path": "fx/lantern_flicker",
+    "size": [
+      64,
+      96
+    ],
+    "frames": 6,
+    "fps": 8,
+    "loop": true,
+    "desc": "Lantern flame for A06 and the port and office backgrounds."
+  },
+  {
+    "id": "V24",
+    "path": "fx/longboat_launch",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 10,
+    "fps": 20,
+    "loop": false,
+    "desc": "A longboat swings out of its cradle on davit ropes and drops into the water with a splash."
+  },
+  {
+    "id": "V25",
+    "path": "fx/tender_lash",
+    "size": [
+      128,
+      64
+    ],
+    "frames": 8,
+    "fps": 16,
+    "loop": false,
+    "desc": "A rope is thrown and cleated as a tender is lashed alongside; played in reverse when it casts off."
+  },
+  {
+    "id": "V26",
+    "path": "fx/smoke_screen",
+    "size": [
+      256,
+      256
+    ],
+    "frames": 12,
+    "fps": 12,
+    "loop": true,
+    "desc": "A thick grey smoke bank for the smoke pot, fog bank and brazier devices. Must stay readable over both sea and islands."
+  },
+  {
+    "id": "V27",
+    "path": "fx/anchor_drop",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 10,
+    "fps": 20,
+    "loop": false,
+    "desc": "Anchor plunges, chain rattles and the water swirls, for the brake and kedge devices."
+  },
+  {
+    "id": "V28",
+    "path": "fx/carpenter_repair",
+    "size": [
+      96,
+      96
+    ],
+    "frames": 8,
+    "fps": 12,
+    "loop": true,
+    "desc": "Hammers and fresh planks flicker over the hull while repairs run."
+  },
+  {
+    "id": "V29",
+    "path": "fx/oil_fire",
+    "size": [
+      128,
+      64
+    ],
+    "frames": 8,
+    "fps": 12,
+    "loop": true,
+    "desc": "A patch of burning oil on the water, tiled by code along the slick."
+  },
+  {
+    "id": "V30",
+    "path": "fx/boss_phase",
+    "size": [
+      512,
+      512
+    ],
+    "frames": 12,
+    "fps": 20,
+    "loop": false,
+    "desc": "An ink splash and skull seal across the screen centre when a boss enters a new phase."
+  },
+  {
+    "id": "V31",
+    "path": "fx/chain_snap",
+    "size": [
+      96,
+      48
+    ],
+    "frames": 6,
+    "fps": 24,
+    "loop": false,
+    "desc": "A tow chain snaps with sparks when a convoy segment is destroyed; matches K08."
+  }
+]

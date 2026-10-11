@@ -1,0 +1,111 @@
+requirement_id,runtime_png_count,status,notes
+A01,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+A02,0,excluded,Excluded: Chinese logo omitted by user English-only instruction.
+A03,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+A04,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+A05,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+A06,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+B01,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+B02,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+B03,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+B04,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+B05,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+B06,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C01,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C02,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C03,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C04,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C05,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C06,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C07,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C08,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C09,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C10,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C11,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+C12,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D01,12,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D02,12,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D03,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D04,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D05,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D06,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D07,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D08,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D09,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+D10,6,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E01,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E02,6,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E03,12,integration_candidate,Boarding strength replaced by crew_readiness; no boarding gameplay.
+E04,24,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E05,8,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E06,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E07,8,integration_candidate,Boarded status replaced by entangled.
+E08,17,integration_candidate,17 provisional emblems; map to real faction database before use.
+E09,8,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E10,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E11,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E12,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E13,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E14,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E15,10,integration_candidate,Validate in engine at reference and minimum layout sizes.
+E16,6,integration_candidate,6 provisional skill branches; replace mapping when final skill tree is supplied.
+F01,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F02,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F03,12,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F04,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F05,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F06,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F07,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F08,6,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F09,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+F10,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G01,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G02,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G03,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G04,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G05,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G06,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G07,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G08,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G09,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+G10,2,integration_candidate,English result graphics only.
+H01,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+H02,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+H03,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+H04,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+H05,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+H06,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+H07,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+H08,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+I01,8,integration_candidate,Validate in engine at reference and minimum layout sizes.
+I02,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+I03,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+I04,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+I05,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+I06,1,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K01,11,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K02,40,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K03,16,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K04,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K05,16,integration_candidate,Fleet tokens are stylized ship illustrations; review camera consistency.
+K06,6,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K07,2,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K08,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K09,5,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K10,6,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K11,8,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K12,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K13,3,integration_candidate,Validate in engine at reference and minimum layout sizes.
+K14,2,integration_candidate,English stamps only.
+K15,4,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M01,25,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M02,20,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M03,12,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M04,240,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M05,39,integration_candidate,Three-piece mount candidates; validate pivot and fit against actual equipment database.
+M06,7,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M07,19,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M08,26,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M09,12,integration_candidate,Validate in engine at reference and minimum layout sizes.
+M10,21,integration_candidate,21 distinct meanings exported (audit label says 18).
+M11,4,integration_candidate,Validate in engine at reference and minimum layout sizes.

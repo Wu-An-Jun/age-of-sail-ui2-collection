@@ -1,0 +1,5508 @@
+[
+  {
+    "id": "C01",
+    "path": "kit/panel_plain",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "plain parchment panel, dark wood straight border and small brass corner caps, large flat empty centre",
+    "states": [],
+    "slice": 48,
+    "kind": "chrome"
+  },
+  {
+    "id": "C02",
+    "path": "kit/panel_inset",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "recessed darker parchment square well with thin wooden rim",
+    "states": [],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "C03",
+    "path": "kit/ribbon_header",
+    "size": [
+      512,
+      112
+    ],
+    "desc": "blank red cloth horizontal swallowtail ribbon",
+    "states": [],
+    "slice": [
+      96,
+      0,
+      96,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "C04",
+    "path": "kit/topbar_wood",
+    "size": [
+      512,
+      96
+    ],
+    "desc": "straight dark oak header plank brass end rivets, empty middle",
+    "states": [],
+    "slice": [
+      64,
+      0,
+      64,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "C10",
+    "path": "kit/dialog_frame",
+    "size": [
+      384,
+      384
+    ],
+    "desc": "square blank parchment modal in heavy straight wood and iron corner brackets",
+    "states": [],
+    "slice": 64,
+    "kind": "chrome"
+  },
+  {
+    "id": "C12",
+    "path": "kit/toolbar_plank",
+    "size": [
+      512,
+      154
+    ],
+    "desc": "horizontal dark wood toolbar with brass cleats only at ends",
+    "states": [],
+    "slice": [
+      64,
+      0,
+      64,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "C09",
+    "path": "kit/tooltip",
+    "size": [
+      192,
+      128
+    ],
+    "desc": "small blank parchment rectangular note with tiny pin at corner",
+    "states": [],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "H07",
+    "path": "kit/price_plaque",
+    "size": [
+      192,
+      64
+    ],
+    "desc": "long blank brass price plaque",
+    "states": [
+      "normal",
+      "unaffordable"
+    ],
+    "slice": [
+      32,
+      0,
+      32,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "I02",
+    "path": "kit/dialogue_scroll",
+    "size": [
+      512,
+      192
+    ],
+    "desc": "wide blank parchment scroll with rolled ends",
+    "states": [],
+    "slice": 48,
+    "kind": "chrome"
+  },
+  {
+    "id": "I02",
+    "path": "kit/dialogue_name_tag",
+    "size": [
+      256,
+      56
+    ],
+    "desc": "thin blank dark oak nameplate",
+    "states": [],
+    "slice": [
+      32,
+      0,
+      32,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "I03",
+    "path": "rewards/reward_ribbon",
+    "size": [
+      1024,
+      256
+    ],
+    "desc": "long blank gold cloth reward ribbon",
+    "states": [],
+    "slice": [
+      160,
+      0,
+      160,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "F06",
+    "path": "map/region_banner",
+    "size": [
+      256,
+      64
+    ],
+    "desc": "thin blank unrolled parchment region scroll",
+    "states": [],
+    "slice": [
+      48,
+      0,
+      48,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "C05",
+    "path": "kit/tab",
+    "size": [
+      192,
+      80
+    ],
+    "desc": "blank paper tab with wooden upper rim",
+    "states": [
+      "normal",
+      "pressed",
+      "selected",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C06",
+    "path": "kit/list_row",
+    "size": [
+      512,
+      96
+    ],
+    "desc": "blank flat parchment list row with thin dark rim",
+    "states": [
+      "normal",
+      "pressed",
+      "selected",
+      "disabled"
+    ],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "D01",
+    "path": "kit/btn_primary",
+    "size": [
+      256,
+      96
+    ],
+    "desc": "red lacquer rectangle with brass trim",
+    "states": [
+      "normal",
+      "pressed",
+      "selected",
+      "disabled"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "D02",
+    "path": "kit/btn_secondary",
+    "size": [
+      256,
+      96
+    ],
+    "desc": "oak rectangle with flat blank paper label",
+    "states": [
+      "normal",
+      "pressed",
+      "selected",
+      "disabled"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "D03",
+    "path": "kit/btn_premium",
+    "size": [
+      256,
+      96
+    ],
+    "desc": "gold leaf rectangle with brass trim",
+    "states": [
+      "normal",
+      "pressed",
+      "selected",
+      "disabled"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "D04",
+    "path": "kit/btn_round",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "empty wooden circular disc within brass ring",
+    "states": [
+      "normal",
+      "pressed",
+      "selected",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "D05",
+    "path": "kit/btn_close",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "red wax circular disc with deeply cut X",
+    "states": [
+      "normal",
+      "pressed",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "D06",
+    "path": "kit/btn_back",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "wooden disc with brass left arrow",
+    "states": [
+      "normal",
+      "pressed",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "D10",
+    "path": "kit/btn_stepper_plus",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "wooden disc with brass plus sign",
+    "states": [
+      "normal",
+      "pressed",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "D10",
+    "path": "kit/btn_stepper_minus",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "wooden disc with brass minus sign",
+    "states": [
+      "normal",
+      "pressed",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "D07",
+    "path": "kit/toggle",
+    "size": [
+      128,
+      64
+    ],
+    "desc": "wooden latch track with brass slide knob and teal pennant",
+    "states": [
+      "on",
+      "off",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "D09",
+    "path": "kit/checkbox",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "square empty parchment checkbox ink border",
+    "states": [
+      "off",
+      "on",
+      "disabled"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C07",
+    "path": "kit/scrollbar_track",
+    "size": [
+      24,
+      256
+    ],
+    "desc": "vertical straight rope",
+    "states": [],
+    "slice": [
+      0,
+      12,
+      0,
+      12
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "C07",
+    "path": "kit/scrollbar_thumb",
+    "size": [
+      24,
+      64
+    ],
+    "desc": "vertical brass bead",
+    "states": [
+      "normal",
+      "pressed"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "D08",
+    "path": "kit/slider_track",
+    "size": [
+      384,
+      32
+    ],
+    "desc": "taut horizontal rope with end pegs",
+    "states": [],
+    "slice": [
+      24,
+      0,
+      24,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "D08",
+    "path": "kit/slider_handle",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "round brass slider knob",
+    "states": [
+      "normal",
+      "pressed"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C08",
+    "path": "kit/divider_rope",
+    "size": [
+      512,
+      16
+    ],
+    "desc": "straight twisted horizontal rope line",
+    "states": [],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C09",
+    "path": "kit/tooltip_pointer",
+    "size": [
+      32,
+      24
+    ],
+    "desc": "small parchment triangle pointer downward",
+    "states": [],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C11",
+    "path": "kit/corner_ornament_top_left",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "top left",
+    "states": [],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C11",
+    "path": "kit/corner_ornament_top_right",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "top right",
+    "states": [],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C11",
+    "path": "kit/corner_ornament_bottom_left",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "bottom left",
+    "states": [],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "C11",
+    "path": "kit/corner_ornament_bottom_right",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "bottom right",
+    "states": [],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "E01",
+    "path": "icons/currency_gold",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "gold",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E01",
+    "path": "icons/currency_pearls",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "pearls",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E01",
+    "path": "icons/currency_research_charts",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "research charts",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E01",
+    "path": "icons/currency_provisions",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "provisions",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E02",
+    "path": "icons/resource_powder",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "powder",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E02",
+    "path": "icons/resource_timber",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "timber",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E02",
+    "path": "icons/resource_crew",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "crew",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E02",
+    "path": "icons/resource_cargo",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "cargo",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E02",
+    "path": "icons/resource_reputation",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "reputation",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E02",
+    "path": "icons/resource_voyage_days",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "voyage days",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_hull",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "hull",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_armour",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "armour",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_speed",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "speed",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_turn_rate",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "turn rate",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_firepower",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "firepower",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_range",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "range",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_reload",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "reload",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_powder_capacity",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "powder capacity",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_powder_regeneration",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "powder regeneration",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_crew_readiness",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "crew readiness",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_blast_resistance",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "blast resistance",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E03",
+    "path": "icons/stat_fire_resistance",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "fire resistance",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_chart",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "chart",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_local_waters",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "local waters",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_fleet",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "fleet",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_captain_skills",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "captain skills",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_quests",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "quests",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_research",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "research",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_cargo",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "cargo",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_exit",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "exit",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_settings",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "settings",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_codex",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "codex",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_outfitting",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "outfitting",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E04",
+    "path": "icons/menu_language",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "language",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_explore_boat",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "explore boat",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_attack",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "attack",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_trade",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "trade",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_repair",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "repair",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_recruit",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "recruit",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_quest",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "quest",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_set_sail",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "set sail",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E05",
+    "path": "icons/island_survey",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "survey",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E06",
+    "path": "icons/damage_round_shot",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "round shot",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E06",
+    "path": "icons/damage_fire",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "fire",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E06",
+    "path": "icons/damage_blast",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "blast",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E06",
+    "path": "icons/damage_chain_shot",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "chain shot",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_burning",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "burning",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_flooding",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "flooding",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_torn_sails",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "torn sails",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_stunned_crew",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "stunned crew",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_entangled",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "entangled",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_repairing",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "repairing",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_braced",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "braced",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E07",
+    "path": "icons/status_anchored",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "anchored",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_anchor",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "anchor",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_lion",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "lion",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_eagle",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "eagle",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_kraken",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "kraken",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_rose",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "rose",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_sun",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "sun",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_moon",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "moon",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_trident",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "trident",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_serpent",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "serpent",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_tower",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "tower",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_wolf",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "wolf",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_stag",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "stag",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_phoenix",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "phoenix",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_shark",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "shark",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_crown",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "crown",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_octopus",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "octopus",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E08",
+    "path": "icons/faction_free_waters",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "free waters",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_cannons",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "cannons",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_powder",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "powder",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_armour",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "armour",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_sails",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "sails",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_longboats",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboats",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_special",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "special",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_tenders",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "tenders",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E09",
+    "path": "icons/module_other",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "other",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E10",
+    "path": "icons/badge_red_dot",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "red dot",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E10",
+    "path": "icons/badge_count_bubble",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "count bubble",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E10",
+    "path": "icons/badge_new_tag",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "new tag",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E10",
+    "path": "icons/badge_exclamation",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "exclamation",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E11",
+    "path": "icons/lock_padlock",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "padlock",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E11",
+    "path": "icons/lock_chain_wrap",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "chain wrap",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E11",
+    "path": "icons/lock_key",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "key",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E12",
+    "path": "icons/pip_empty",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "empty",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E12",
+    "path": "icons/pip_filled",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "filled",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E12",
+    "path": "icons/pip_max_star",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "max star",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E13",
+    "path": "icons/quest_main_story",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "main story",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E13",
+    "path": "icons/quest_bounty",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "bounty",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E13",
+    "path": "icons/quest_delivery",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "delivery",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E13",
+    "path": "icons/quest_escort",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "escort",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E13",
+    "path": "icons/quest_exploration",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "exploration",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E15",
+    "path": "icons/filter_bookmarks",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "bookmarks",
+    "states": [
+      "on",
+      "off"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E15",
+    "path": "icons/filter_bosses",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "bosses",
+    "states": [
+      "on",
+      "off"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E15",
+    "path": "icons/filter_markets",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "markets",
+    "states": [
+      "on",
+      "off"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E15",
+    "path": "icons/filter_arena",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "arena",
+    "states": [
+      "on",
+      "off"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E15",
+    "path": "icons/filter_seasonal_event",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "seasonal event",
+    "states": [
+      "on",
+      "off"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E16",
+    "path": "icons/skill_branch_gunnery",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "gunnery",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E16",
+    "path": "icons/skill_branch_seamanship",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "seamanship",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E16",
+    "path": "icons/skill_branch_command",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "command",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E16",
+    "path": "icons/skill_branch_logistics",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "logistics",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E16",
+    "path": "icons/skill_branch_engineering",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "engineering",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E16",
+    "path": "icons/skill_branch_exploration",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "exploration",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_lighter",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "lighter",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_cheaper_powder",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "cheaper powder",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_fortified",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "fortified",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_extra_hull",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "extra hull",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_damage",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "damage",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_faster_reload",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "faster reload",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_range",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "range",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_shot_speed",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "shot speed",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_powder_capacity",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "powder capacity",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_repair_rate",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "repair rate",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_sail_power",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "sail power",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_recharge",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "recharge",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_blast_radius",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "blast radius",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_bulwark_strength",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "bulwark strength",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_longboat_damage",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "longboat damage",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_longboat_defence",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "longboat defence",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_longboat_speed",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "longboat speed",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_longboat_range",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "longboat range",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M07",
+    "path": "outfit/mod_recoil",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "recoil",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_armour_repair",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "armour repair",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_powder_absorption",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "powder absorption",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_powder_recharge",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "powder recharge",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_shot_resistance",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "shot resistance",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_fire_resistance",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "fire resistance",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_blast_resistance",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "blast resistance",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_ramming_damage",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "ramming damage",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_bulwark_points",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "bulwark points",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_bulwark_recharge",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "bulwark recharge",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_weapon_damage",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "weapon damage",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_weapon_powder_cost",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "weapon powder cost",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_weapon_reload",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "weapon reload",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_weapon_range",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "weapon range",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_longboat_build_time",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboat build time",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_longboats_per_second",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboats per second",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_longboat_damage",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboat damage",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_longboat_defence",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboat defence",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_longboat_speed",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboat speed",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_longboat_range",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboat range",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_autopilot",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "autopilot",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M10",
+    "path": "icons/mstat_weapon_platform_change",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "weapon platform change",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "E14",
+    "path": "icons/class_sloop",
+    "size": [
+      128,
+      64
+    ],
+    "desc": "sloop",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "E14",
+    "path": "icons/class_brig",
+    "size": [
+      128,
+      64
+    ],
+    "desc": "brig",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "E14",
+    "path": "icons/class_frigate",
+    "size": [
+      128,
+      64
+    ],
+    "desc": "frigate",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "E14",
+    "path": "icons/class_ship_of_the_line",
+    "size": [
+      128,
+      64
+    ],
+    "desc": "ship of the line",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "E14",
+    "path": "icons/class_flagship",
+    "size": [
+      128,
+      64
+    ],
+    "desc": "flagship",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_studding_sails",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "studding sails",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_decoy_raft",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "decoy raft",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_raised_bulwark",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "raised bulwark",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_fog_bank",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "fog bank",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_kedge_anchor",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "kedge anchor",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_bow_mantlet",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "bow mantlet",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_swivel_guns",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "swivel guns",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_carpenter",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "carpenter",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_powder_fuse",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "powder fuse",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_smoke_pot",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "smoke pot",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_signal_lantern",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "signal lantern",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_drop_anchor",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "drop anchor",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_night_sails",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "night sails",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_brace",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "brace",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_burning_oil",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "burning oil",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_tow_chain",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "tow chain",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_recruit_crew",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "recruit crew",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_hourglass",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "hourglass",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_smoke_brazier",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "smoke brazier",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_round_shot",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "round shot",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_long_gun",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "long gun",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_rocket",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "rocket",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_net",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "net",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_grapple",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "grapple",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_mine",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "mine",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M08",
+    "path": "hud/action_longboat_launch",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboat launch",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_line_warship",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "line warship",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_refit",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "refit",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_flagship",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "flagship",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_longboat",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "longboat",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_tender",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "tender",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_merchant",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "merchant",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_towed_convoy",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "towed convoy",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_fixed_works",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "fixed works",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_carrier",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "carrier",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_boss",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "boss",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K01",
+    "path": "vessel/kind_fisher_scavenger",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "fisher scavenger",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K04",
+    "path": "vessel/rank_bronze",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "bronze",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K04",
+    "path": "vessel/rank_silver",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "silver",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K04",
+    "path": "vessel/rank_gold",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "gold",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K04",
+    "path": "vessel/rank_gold_one_star",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "gold one star",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K04",
+    "path": "vessel/rank_gold_two_stars",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "gold two stars",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M03",
+    "path": "outfit/slot_c",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "c",
+    "states": [
+      "normal",
+      "matched"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M03",
+    "path": "outfit/slot_l",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "l",
+    "states": [
+      "normal",
+      "matched"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M03",
+    "path": "outfit/slot_m",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "m",
+    "states": [
+      "normal",
+      "matched"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M03",
+    "path": "outfit/slot_t",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "t",
+    "states": [
+      "normal",
+      "matched"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M03",
+    "path": "outfit/slot_s",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "s",
+    "states": [
+      "normal",
+      "matched"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M03",
+    "path": "outfit/slot_any",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "any",
+    "states": [
+      "normal",
+      "matched"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M06",
+    "path": "outfit/quality_cracked",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "cracked",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M06",
+    "path": "outfit/quality_rusted",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "rusted",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M06",
+    "path": "outfit/quality_scuffed",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "scuffed",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M06",
+    "path": "outfit/quality_standard",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "standard",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M06",
+    "path": "outfit/quality_one_star",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "one star",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M06",
+    "path": "outfit/quality_two_stars",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "two stars",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M06",
+    "path": "outfit/quality_three_stars",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "three stars",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M09",
+    "path": "outfit/key_1",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "1",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M09",
+    "path": "outfit/key_2",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "2",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M09",
+    "path": "outfit/key_3",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "3",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M09",
+    "path": "outfit/key_4",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "4",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M09",
+    "path": "outfit/key_5",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "5",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "M09",
+    "path": "outfit/key_6",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "6",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "F01",
+    "path": "map/compass_rose",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "32 point ink compass rose faded red fleur de lis north",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F01",
+    "path": "map/compass_needle",
+    "size": [
+      64,
+      256
+    ],
+    "desc": "vertical brass compass needle red north tip",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F02",
+    "path": "map/player_ship",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "top down galleon bow pointing UP on faint brass ring",
+    "states": [
+      "furled",
+      "full"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F03",
+    "path": "map/pin_home_port",
+    "size": [
+      96,
+      128
+    ],
+    "desc": "home port",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F03",
+    "path": "map/pin_visited",
+    "size": [
+      96,
+      128
+    ],
+    "desc": "visited",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F03",
+    "path": "map/pin_unexplored",
+    "size": [
+      96,
+      128
+    ],
+    "desc": "unexplored",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F03",
+    "path": "map/pin_hostile",
+    "size": [
+      96,
+      128
+    ],
+    "desc": "hostile",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F03",
+    "path": "map/pin_quest",
+    "size": [
+      96,
+      128
+    ],
+    "desc": "quest",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F03",
+    "path": "map/pin_boss",
+    "size": [
+      96,
+      128
+    ],
+    "desc": "boss",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F04",
+    "path": "map/route_dash",
+    "size": [
+      64,
+      16
+    ],
+    "desc": "short horizontal ink dash",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F04",
+    "path": "map/route_arrowhead",
+    "size": [
+      32,
+      32
+    ],
+    "desc": "upward ink triangle arrow",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F04",
+    "path": "map/route_destination",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "ink X destination",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F05",
+    "path": "map/fog_north_bank",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "north bank",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F05",
+    "path": "map/fog_east_bank",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "east bank",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F05",
+    "path": "map/fog_south_bank",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "south bank",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F05",
+    "path": "map/fog_west_bank",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "west bank",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F07",
+    "path": "map/select_ring",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "empty brass compass ring transparent centre tick marks",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F08",
+    "path": "map/decor_sea_serpent",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "sea serpent",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F08",
+    "path": "map/decor_whale",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "whale",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F08",
+    "path": "map/decor_kraken_tentacle",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "kraken tentacle",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F08",
+    "path": "map/decor_wind_face",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "wind face",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F08",
+    "path": "map/decor_galleon",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "galleon",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F08",
+    "path": "map/decor_wave_crests",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "wave crests",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F09",
+    "path": "map/danger_tile",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "red ink diagonal parallel hatching transparent paper",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "F10",
+    "path": "map/porthole_frame",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "brass riveted round porthole, empty transparent centre 78 percent width",
+    "states": [],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_hostile_patrol",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "hostile patrol",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_pirate_hunter",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "pirate hunter",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_merchant_convoy",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "merchant convoy",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_smuggler",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "smuggler",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_boss",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "boss",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_allied_escort",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "allied escort",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_player_fleet",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "player fleet",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K05",
+    "path": "map/fleet_wreck",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "wreck",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "G01",
+    "path": "hud/column_player_cap",
+    "size": [
+      204,
+      180
+    ],
+    "desc": "player combat portrait cap with round empty slot dark wood brass",
+    "states": [],
+    "slice": "",
+    "kind": "hud"
+  },
+  {
+    "id": "G01",
+    "path": "hud/column_player",
+    "size": [
+      204,
+      256
+    ],
+    "desc": "player tall empty wooden combat column two vertical recessed bar tracks",
+    "states": [],
+    "slice": [
+      0,
+      48,
+      0,
+      48
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "G02",
+    "path": "hud/column_enemy_cap",
+    "size": [
+      204,
+      180
+    ],
+    "desc": "enemy combat portrait cap with round empty slot dark wood brass",
+    "states": [],
+    "slice": "",
+    "kind": "hud"
+  },
+  {
+    "id": "G02",
+    "path": "hud/column_enemy",
+    "size": [
+      204,
+      256
+    ],
+    "desc": "enemy tall empty wooden combat column two vertical recessed bar tracks",
+    "states": [],
+    "slice": [
+      0,
+      48,
+      0,
+      48
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "K06",
+    "path": "hud/column_boss_cap",
+    "size": [
+      204,
+      216
+    ],
+    "desc": "boss combat portrait cap with round empty slot dark wood brass",
+    "states": [],
+    "slice": "",
+    "kind": "hud"
+  },
+  {
+    "id": "K06",
+    "path": "hud/column_boss",
+    "size": [
+      204,
+      256
+    ],
+    "desc": "boss tall empty wooden combat column two vertical recessed bar tracks",
+    "states": [],
+    "slice": [
+      0,
+      48,
+      0,
+      48
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "K06",
+    "path": "hud/column_works_cap",
+    "size": [
+      204,
+      216
+    ],
+    "desc": "works combat portrait cap with round empty slot stone fortress",
+    "states": [],
+    "slice": "",
+    "kind": "hud"
+  },
+  {
+    "id": "K06",
+    "path": "hud/column_works",
+    "size": [
+      204,
+      256
+    ],
+    "desc": "works tall empty wooden combat column two vertical recessed bar tracks",
+    "states": [],
+    "slice": [
+      0,
+      48,
+      0,
+      48
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "K06",
+    "path": "hud/column_convoy_cap",
+    "size": [
+      204,
+      216
+    ],
+    "desc": "convoy combat portrait cap with round empty slot dark wood brass",
+    "states": [],
+    "slice": "",
+    "kind": "hud"
+  },
+  {
+    "id": "K06",
+    "path": "hud/column_convoy",
+    "size": [
+      204,
+      256
+    ],
+    "desc": "convoy tall empty wooden combat column two vertical recessed bar tracks",
+    "states": [],
+    "slice": [
+      0,
+      48,
+      0,
+      48
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "G03",
+    "path": "hud/weapon_button",
+    "size": [
+      160,
+      160
+    ],
+    "desc": "empty brass rim wooden weapon disc",
+    "states": [
+      "normal",
+      "pressed",
+      "disabled",
+      "ready"
+    ],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "G03",
+    "path": "hud/weapon_reload_ring",
+    "size": [
+      160,
+      160
+    ],
+    "desc": "thin brass reload ring with transparent centre",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "G04",
+    "path": "hud/joystick_base",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "ships wheel eight spokes transparent centre",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "G05",
+    "path": "hud/joystick_knob",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "round brass ship wheel hub",
+    "states": [
+      "normal",
+      "pressed"
+    ],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "G06",
+    "path": "hud/ability_button",
+    "size": [
+      192,
+      192
+    ],
+    "desc": "red lacquer circular ability button brass rim",
+    "states": [
+      "normal",
+      "pressed",
+      "disabled",
+      "ready"
+    ],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "G07",
+    "path": "hud/enemy_bar_fill",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "flat red health fill subtle pixel highlights",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "G08",
+    "path": "hud/offscreen_arrow",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "red ink up arrow with small skull",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "G09",
+    "path": "hud/hit_splash",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "burst of timber splinters",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "K07",
+    "path": "hud/boss_bar",
+    "size": [
+      1024,
+      64
+    ],
+    "desc": "empty black wood boss health bar with skull endcaps",
+    "states": [],
+    "slice": [
+      128,
+      0,
+      128,
+      0
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "K07",
+    "path": "hud/boss_notch",
+    "size": [
+      16,
+      64
+    ],
+    "desc": "vertical iron boss phase notch",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "K08",
+    "path": "hud/segment_piece",
+    "size": [
+      48,
+      24
+    ],
+    "desc": "small horizontal brass hull gauge segment",
+    "states": [
+      "intact",
+      "damaged",
+      "destroyed"
+    ],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "K08",
+    "path": "hud/segment_link",
+    "size": [
+      16,
+      24
+    ],
+    "desc": "small vertical chain link",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "K09",
+    "path": "hud/longboat_counter",
+    "size": [
+      160,
+      64
+    ],
+    "desc": "small longboat icon beside blank wooden number bubble",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "K09",
+    "path": "hud/longboat_stance_attack",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "attack",
+    "states": [
+      "on",
+      "off"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K09",
+    "path": "hud/longboat_stance_guard",
+    "size": [
+      96,
+      96
+    ],
+    "desc": "guard",
+    "states": [
+      "on",
+      "off"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K10",
+    "path": "vessel/tender_port",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "port",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K10",
+    "path": "vessel/tender_starboard",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "starboard",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K10",
+    "path": "vessel/tender_bar",
+    "size": [
+      96,
+      24
+    ],
+    "desc": "empty thin brass bar frame",
+    "states": [],
+    "slice": null,
+    "kind": "hud"
+  },
+  {
+    "id": "K10",
+    "path": "vessel/tender_grid",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "empty square wooden side grid rope and port lantern corner",
+    "states": [],
+    "slice": 48,
+    "kind": "chrome"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_bar",
+    "size": [
+      512,
+      48
+    ],
+    "desc": "empty wooden fort capture bar",
+    "states": [],
+    "slice": [
+      64,
+      0,
+      64,
+      0
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_flag",
+    "size": [
+      64,
+      96
+    ],
+    "desc": "red nautical flag on short wooden mast",
+    "states": [
+      "lowered",
+      "rising",
+      "raised"
+    ],
+    "slice": null,
+    "kind": "map"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_batteries",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "batteries",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_walls",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "walls",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_garrison",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "garrison",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_supply",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "supply",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K12",
+    "path": "vessel/cargo_value",
+    "size": [
+      128,
+      48
+    ],
+    "desc": "coin pouch beside blank brass number plaque",
+    "states": [],
+    "slice": [
+      24,
+      0,
+      24,
+      0
+    ],
+    "kind": "hud"
+  },
+  {
+    "id": "K12",
+    "path": "vessel/cargo_gauge",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "cargo hold gauge",
+    "states": [
+      "empty",
+      "half",
+      "full"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K13",
+    "path": "vessel/threat_skull",
+    "size": [
+      48,
+      48
+    ],
+    "desc": "skull silhouette threat marker",
+    "states": [
+      "empty",
+      "filled"
+    ],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "K13",
+    "path": "vessel/threat_plaque",
+    "size": [
+      256,
+      56
+    ],
+    "desc": "blank dark wooden plaque for skull rating",
+    "states": [],
+    "slice": [
+      32,
+      0,
+      32,
+      0
+    ],
+    "kind": "chrome"
+  },
+  {
+    "id": "K15",
+    "path": "combat/duel_tile",
+    "size": [
+      192,
+      192
+    ],
+    "desc": "empty ship portrait tile with hull bar bottom",
+    "states": [
+      "ready",
+      "selected",
+      "damaged",
+      "sunk"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "H01",
+    "path": "outfit/cell",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "square topdown pale oak plank deck cell",
+    "states": [
+      "empty",
+      "valid",
+      "invalid",
+      "occupied",
+      "selected"
+    ],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "H02",
+    "path": "outfit/rarity_common",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "rope square frame transparent centre",
+    "states": [],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "H02",
+    "path": "outfit/rarity_uncommon",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "iron square frame transparent centre",
+    "states": [],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "H02",
+    "path": "outfit/rarity_rare",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "silver square frame transparent centre",
+    "states": [],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "H02",
+    "path": "outfit/rarity_epic",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "gold square frame transparent centre",
+    "states": [],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "H02",
+    "path": "outfit/rarity_legendary",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "gilded gem square frame transparent centre",
+    "states": [],
+    "slice": 24,
+    "kind": "chrome"
+  },
+  {
+    "id": "H03",
+    "path": "outfit/blueprint_sheet",
+    "size": [
+      1024,
+      768
+    ],
+    "desc": "empty pale blue parchment blueprint with ruler margins faint pencil construction lines",
+    "states": [],
+    "slice": null,
+    "kind": "large"
+  },
+  {
+    "id": "H04",
+    "path": "fleet/ship_card",
+    "size": [
+      384,
+      256
+    ],
+    "desc": "empty oak and parchment wide ship card frame, calm empty centre",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "H05",
+    "path": "outfit/stat_arrow_up",
+    "size": [
+      32,
+      32
+    ],
+    "desc": "up",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "H05",
+    "path": "outfit/stat_arrow_down",
+    "size": [
+      32,
+      32
+    ],
+    "desc": "down",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "H05",
+    "path": "outfit/stat_arrow_equal",
+    "size": [
+      32,
+      32
+    ],
+    "desc": "equal",
+    "states": [],
+    "slice": null,
+    "kind": "icon"
+  },
+  {
+    "id": "H06",
+    "path": "fleet/ship_cradle",
+    "size": [
+      768,
+      256
+    ],
+    "desc": "sideview empty timber dry dock cradle above thin waterline",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "H08",
+    "path": "skills/node",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "empty round brass captain skill medallion",
+    "states": [
+      "locked",
+      "available",
+      "owned",
+      "maxed"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "H08",
+    "path": "skills/rope_connector",
+    "size": [
+      32,
+      16
+    ],
+    "desc": "short horizontal rope connector",
+    "states": [],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_line",
+    "size": [
+      384,
+      256
+    ],
+    "desc": "empty ship card frame oak",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_refit",
+    "size": [
+      384,
+      256
+    ],
+    "desc": "empty ship card frame oak iron bands",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_flagship",
+    "size": [
+      576,
+      256
+    ],
+    "desc": "empty ship card frame gilded crown crest",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_boss",
+    "size": [
+      384,
+      256
+    ],
+    "desc": "empty ship card frame black wood red trim skull crown",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_fixed_works",
+    "size": [
+      384,
+      256
+    ],
+    "desc": "empty ship card frame stone timber",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_merchant",
+    "size": [
+      384,
+      256
+    ],
+    "desc": "empty ship card frame green gold ledger",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_longboat",
+    "size": [
+      192,
+      128
+    ],
+    "desc": "empty ship card frame rope",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K03",
+    "path": "vessel/card_tender",
+    "size": [
+      192,
+      128
+    ],
+    "desc": "empty ship card frame wood frame side notch",
+    "states": [
+      "normal",
+      "selected"
+    ],
+    "slice": 32,
+    "kind": "chrome"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_sloop",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "sloop",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_reinforced_sloop",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "reinforced sloop",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_cutter",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "cutter",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_brig",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "brig",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_brigantine",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "brigantine",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_frigate",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "frigate",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_schooner",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "schooner",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_caravel",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "caravel",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_gun_brig",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "gun brig",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_ketch",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "ketch",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_grand_galleon",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "grand galleon",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_junk",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "junk",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_river_barge",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "river barge",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_war_galley",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "war galley",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_carrack",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "carrack",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_towboat",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "towboat",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_whaler",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "whaler",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_fishing_boat",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "fishing boat",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_rowboat",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "rowboat",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "K02",
+    "path": "vessel/profile_dinghy",
+    "size": [
+      256,
+      160
+    ],
+    "desc": "dinghy",
+    "states": [],
+    "slice": null,
+    "kind": "profile"
+  },
+  {
+    "id": "M01",
+    "path": "outfit/cell_outer",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "outer",
+    "states": [
+      "empty",
+      "valid_drop",
+      "invalid_drop",
+      "occupied",
+      "locked"
+    ],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M01",
+    "path": "outfit/cell_inner",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "inner",
+    "states": [
+      "empty",
+      "valid_drop",
+      "invalid_drop",
+      "occupied",
+      "locked"
+    ],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M01",
+    "path": "outfit/cell_mixed",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "mixed",
+    "states": [
+      "empty",
+      "valid_drop",
+      "invalid_drop",
+      "occupied",
+      "locked"
+    ],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M01",
+    "path": "outfit/cell_gun",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "gun",
+    "states": [
+      "empty",
+      "valid_drop",
+      "invalid_drop",
+      "occupied",
+      "locked"
+    ],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M01",
+    "path": "outfit/cell_mast",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "mast",
+    "states": [
+      "empty",
+      "valid_drop",
+      "invalid_drop",
+      "occupied",
+      "locked"
+    ],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M02",
+    "path": "outfit/hull_edge_source",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "square topdown ship gunwale oak tile brass outer edging",
+    "states": [],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M04",
+    "path": "outfit/plate_weapon",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "weapon",
+    "states": [],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M04",
+    "path": "outfit/plate_defence",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "defence",
+    "states": [],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M04",
+    "path": "outfit/plate_powder",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "powder",
+    "states": [],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M04",
+    "path": "outfit/plate_sails",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "sails",
+    "states": [],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M04",
+    "path": "outfit/plate_boats",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "boats",
+    "states": [],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M04",
+    "path": "outfit/plate_special",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "special",
+    "states": [],
+    "slice": null,
+    "kind": "material"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_naval_cannon",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "naval cannon",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_long_gun",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "long gun",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_chain_shot",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "chain shot",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_harpoon_gun",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "harpoon gun",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_rocket_launcher",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "rocket launcher",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_torpedo_tube",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "torpedo tube",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_mortar",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "mortar",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_grapeshot",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "grapeshot",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_grappling_hook",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "grappling hook",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_fire_pot",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "fire pot",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_signal_rocket",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "signal rocket",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_holy_cannon",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "holy cannon",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M05",
+    "path": "outfit/mount_flare_gun",
+    "size": [
+      64,
+      192
+    ],
+    "desc": "flare gun",
+    "states": [],
+    "slice": null,
+    "kind": "mount"
+  },
+  {
+    "id": "M11",
+    "path": "outfit/module_tile",
+    "size": [
+      160,
+      160
+    ],
+    "desc": "empty wood module inventory tile brass corner tabs",
+    "states": [
+      "normal",
+      "selected",
+      "unusable",
+      "locked"
+    ],
+    "slice": null,
+    "kind": "chrome"
+  },
+  {
+    "id": "I04",
+    "path": "rewards/chest",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "treasure chest iron bands gold inside",
+    "states": [
+      "closed",
+      "open"
+    ],
+    "slice": null,
+    "kind": "reward"
+  },
+  {
+    "id": "I05",
+    "path": "rewards/seal_red",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "red",
+    "states": [],
+    "slice": null,
+    "kind": "reward"
+  },
+  {
+    "id": "I05",
+    "path": "rewards/seal_blue",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "blue",
+    "states": [],
+    "slice": null,
+    "kind": "reward"
+  },
+  {
+    "id": "I05",
+    "path": "rewards/seal_gold",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "gold",
+    "states": [],
+    "slice": null,
+    "kind": "reward"
+  },
+  {
+    "id": "I05",
+    "path": "rewards/seal_rank",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "large ornate gold wax anchor seal",
+    "states": [],
+    "slice": null,
+    "kind": "reward"
+  },
+  {
+    "id": "I06",
+    "path": "rewards/light_burst",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "soft transparent gold reward light rays radial",
+    "states": [],
+    "slice": null,
+    "kind": "reward"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_harbour_master",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "harbour master",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_shipwright",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "shipwright",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_merchant",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "merchant",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_admiral",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "admiral",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_rival_pirate",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "rival pirate",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_navy_captain",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "navy captain",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_quartermaster",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "quartermaster",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "I01",
+    "path": "portraits/npc_cartographer",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "cartographer",
+    "states": [],
+    "slice": null,
+    "kind": "portrait"
+  },
+  {
+    "id": "A01",
+    "path": "brand/title_logo_en",
+    "size": [
+      1024,
+      320
+    ],
+    "desc": "text STARSHIP gilt nautical serif on weathered ship nameboard brass nails no subtitle",
+    "states": [],
+    "slice": null,
+    "kind": "brand"
+  },
+  {
+    "id": "A03",
+    "path": "brand/app_icon",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "galleon bow breaking wave three quarter front red sails teal sea warm sky no text 48px safe margin",
+    "states": [],
+    "slice": null,
+    "kind": "app"
+  },
+  {
+    "id": "A04",
+    "path": "brand/loading_bg",
+    "size": [
+      1920,
+      1080
+    ],
+    "desc": "fleet sailing out of fog at dusk, lower third dark quiet",
+    "states": [],
+    "slice": null,
+    "kind": "background"
+  },
+  {
+    "id": "A05",
+    "path": "bg/menu_harbour",
+    "size": [
+      2400,
+      1080
+    ],
+    "desc": "golden hour harbor, docked galleon lighthouse town at right, left forty percent calm sea and sky, no text",
+    "states": [],
+    "slice": null,
+    "kind": "background"
+  },
+  {
+    "id": "A06",
+    "path": "bg/menu_foreground",
+    "size": [
+      2400,
+      1080
+    ],
+    "desc": "isolated rigging ropes hanging lantern and cream sail edge framing ONLY top and right, transparent centre",
+    "states": [],
+    "slice": null,
+    "kind": "overlay"
+  },
+  {
+    "id": "B01",
+    "path": "bg/captains_office",
+    "size": [
+      1920,
+      1080
+    ],
+    "desc": "warm dim captain cabin desk of model ships stern window overlooking harbor lantern, quiet centre",
+    "states": [],
+    "slice": null,
+    "kind": "background"
+  },
+  {
+    "id": "B02",
+    "path": "bg/shipwright_loft",
+    "size": [
+      1920,
+      1080
+    ],
+    "desc": "timber shipwright loft blueprints beams tools skylight lightshafts, large clear centre for deck plan",
+    "states": [],
+    "slice": null,
+    "kind": "background"
+  },
+  {
+    "id": "B03",
+    "path": "bg/port_quay",
+    "size": [
+      1920,
+      1080
+    ],
+    "desc": "busy harbor quay crates barrels market awnings cargo crane ships masts sea visible quiet centre",
+    "states": [],
+    "slice": null,
+    "kind": "background"
+  },
+  {
+    "id": "B04",
+    "path": "bg/admiralty_hall",
+    "size": [
+      1920,
+      1080
+    ],
+    "desc": "admiralty map room globes brass instruments tall bookshelves sea through window quiet centre",
+    "states": [],
+    "slice": null,
+    "kind": "background"
+  },
+  {
+    "id": "B05",
+    "path": "map/chart_table_frame",
+    "size": [
+      1920,
+      1080
+    ],
+    "desc": "thin wooden chart table border 120px deep around fully transparent centre, brass dividers candle inkwell rolled map only corners",
+    "states": [],
+    "slice": null,
+    "kind": "overlay"
+  },
+  {
+    "id": "B06",
+    "path": "bg/parchment_tile",
+    "size": [
+      512,
+      512
+    ],
+    "desc": "perfectly seamless flat warm parchment subtle fibres stains less than 8 percent contrast no borders",
+    "states": [],
+    "slice": null,
+    "kind": "texture"
+  },
+  {
+    "id": "G10",
+    "path": "hud/result_victory_en",
+    "size": [
+      1024,
+      256
+    ],
+    "desc": "gold ribbon reading VICTORY",
+    "states": [],
+    "slice": null,
+    "kind": "brand"
+  },
+  {
+    "id": "G10",
+    "path": "hud/result_defeat_en",
+    "size": [
+      1024,
+      256
+    ],
+    "desc": "torn grey ribbon reading DEFEAT",
+    "states": [],
+    "slice": null,
+    "kind": "brand"
+  },
+  {
+    "id": "K14",
+    "path": "vessel/stamp_sunk_en",
+    "size": [
+      256,
+      128
+    ],
+    "desc": "red ink stamp SUNK with wave line",
+    "states": [],
+    "slice": null,
+    "kind": "brand"
+  },
+  {
+    "id": "K14",
+    "path": "vessel/stamp_captured_en",
+    "size": [
+      256,
+      128
+    ],
+    "desc": "black ink stamp CAPTURED with crossed flags",
+    "states": [],
+    "slice": null,
+    "kind": "brand"
+  },
+  {
+    "id": "F02",
+    "path": "map/player_ship_furled",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "top down small galleon bow UP with sails tightly FURLED narrow yardarms",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "F02",
+    "path": "map/player_ship_full",
+    "size": [
+      128,
+      128
+    ],
+    "desc": "same topdown small galleon bow UP with sails spread FULL",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "I04",
+    "path": "rewards/chest_closed",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "wood iron treasure chest lid fully CLOSED",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "I04",
+    "path": "rewards/chest_open",
+    "size": [
+      256,
+      256
+    ],
+    "desc": "same wood iron treasure chest lid fully OPEN showing gold",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_flag_lowered",
+    "size": [
+      64,
+      96
+    ],
+    "desc": "thin mast flag attached at BOTTOM",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_flag_rising",
+    "size": [
+      64,
+      96
+    ],
+    "desc": "same thin mast flag at MIDDLE",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "K11",
+    "path": "vessel/capture_flag_raised",
+    "size": [
+      64,
+      96
+    ],
+    "desc": "same thin mast flag at TOP",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "K12",
+    "path": "vessel/cargo_gauge_empty",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "empty wooden hold bin seen front on",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "K12",
+    "path": "vessel/cargo_gauge_half",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "same wooden hold bin HALF filled gold cargo",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  },
+  {
+    "id": "K12",
+    "path": "vessel/cargo_gauge_full",
+    "size": [
+      64,
+      64
+    ],
+    "desc": "same wooden hold bin FULL filled gold cargo",
+    "states": [],
+    "slice": null,
+    "kind": "override"
+  }
+]

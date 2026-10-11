@@ -1,0 +1,26 @@
+{
+  "id": "V15",
+  "image": "reload_ready.png",
+  "frame_width": 160,
+  "frame_height": 160,
+  "frame_count": 6,
+  "fps": 24,
+  "loop": false,
+  "columns": 6,
+  "rows": 1,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "source_keyframes": 8,
+  "frame_sampling": "nearest_keyframe_hold",
+  "source_frame_indices": [
+    0,
+    1,
+    3,
+    4,
+    6,
+    7
+  ],
+  "review_status": "integration_candidate"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "V26",
+  "image": "smoke_screen.png",
+  "frame_width": 256,
+  "frame_height": 256,
+  "frame_count": 12,
+  "fps": 12,
+  "loop": true,
+  "columns": 12,
+  "rows": 1,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "source_keyframes": 8,
+  "frame_sampling": "nearest_keyframe_hold",
+  "source_frame_indices": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    3,
+    4,
+    4,
+    5,
+    6,
+    6,
+    7
+  ],
+  "review_status": "integration_candidate"
+}

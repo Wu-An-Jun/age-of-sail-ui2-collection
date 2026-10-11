@@ -1,0 +1,21 @@
+{
+  "art_pngs": 868,
+  "animation_strips": 31,
+  "ogg_files": 59,
+  "cue_groups": 39,
+  "psd_sheets": 27,
+  "intentional_blank_pngs": [
+    "assets/Nautical/UI2/outfit/quality_standard.png"
+  ],
+  "max_decoded_audio_peak": 0.837177038192749,
+  "errors": [],
+  "engine_tested": false,
+  "status": "file_validation_passed",
+  "limitations": [
+    "Static layout mockups only; no game runtime available.",
+    "Audio is procedural audition material.",
+    "Animation frame counts include intentional keyframe holds.",
+    "PSD components are named raster layers, not original generator paint layers.",
+    "Read COVERAGE.csv for exclusions and provisional mappings."
+  ]
+}

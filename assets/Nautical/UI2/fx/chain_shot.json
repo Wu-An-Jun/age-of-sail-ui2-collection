@@ -1,0 +1,24 @@
+{
+  "id": "V19",
+  "image": "chain_shot.png",
+  "frame_width": 64,
+  "frame_height": 64,
+  "frame_count": 4,
+  "fps": 20,
+  "loop": true,
+  "columns": 4,
+  "rows": 1,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "source_keyframes": 8,
+  "frame_sampling": "nearest_keyframe_hold",
+  "source_frame_indices": [
+    0,
+    2,
+    4,
+    6
+  ],
+  "review_status": "integration_candidate"
+}

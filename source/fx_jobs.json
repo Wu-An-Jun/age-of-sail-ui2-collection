@@ -1,0 +1,121 @@
+[
+  {
+    "name": "vfx_atlas_01",
+    "fx_indices": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: Gold coins pop out and scatter when a reward or sale lands. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 2: A single spinning coin; code flies several of them to the gold counter. Eight sequential frames from start to finish, loop cleanly; Row 3: Golden rays and sparkles for rank-ups and maxed skills. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 4: A wax seal is pressed down with a small squash and a dust ring. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated"
+  },
+  {
+    "name": "vfx_atlas_02",
+    "fx_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: A cloud bank (F05) breaks apart and drifts off when waters are charted. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 2: A soft ink ripple under the selected island pin. Eight sequential frames from start to finish, loop cleanly; Row 3: The chart's ship marker (F02) rocks gently and its sails fill. Eight sequential frames from start to finish, loop cleanly; Row 4: A route dash being drawn in ink; code plays it along the route. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated"
+  },
+  {
+    "name": "vfx_atlas_03",
+    "fx_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: The compass needle (F01) settles and wobbles slightly. Eight sequential frames from start to finish, loop cleanly; Row 2: The chest (I04) lid opens and a gleam escapes. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 3: The result and reward ribbons (G10, I03) unroll from the centre outwards. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 4: Paper curl used as a mask when a window opens (3.7). Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated"
+  },
+  {
+    "name": "vfx_atlas_04",
+    "fx_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: Hammer strikes and wood chips when a module is placed. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 2: Sawdust puff when a module is removed or sold. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 3: A brass glint around the weapon button (G03) when the gun is ready. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 4: Splashing water and a red edge at the screen corners when hull is under 25%. Code mirrors it to all four corners. Eight sequential frames from start to finish, loop cleanly"
+  },
+  {
+    "name": "vfx_atlas_05",
+    "fx_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: Small flames on deck for the burning status. Drawn above the hull. Eight sequential frames from start to finish, loop cleanly; Row 2: Bubbles and foam along the waterline for the flooding status. Eight sequential frames from start to finish, loop cleanly; Row 3: A spinning chain shot (two balls and a chain), seen from above. Eight sequential frames from start to finish, loop cleanly; Row 4: A cone of smoke and pellets for grapeshot weapons. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated"
+  },
+  {
+    "name": "vfx_atlas_06",
+    "fx_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: The menu galleon's sails ripple in the wind (overlay on A05). Eight sequential frames from start to finish, loop cleanly; Row 2: One gull flapping; code moves a few across the menu sky. Eight sequential frames from start to finish, loop cleanly; Row 3: Lantern flame for A06 and the port and office backgrounds. Eight sequential frames from start to finish, loop cleanly; Row 4: A longboat swings out of its cradle on davit ropes and drops into the water with a splash. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated"
+  },
+  {
+    "name": "vfx_atlas_07",
+    "fx_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: A rope is thrown and cleated as a tender is lashed alongside; played in reverse when it casts off. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 2: A thick grey smoke bank for the smoke pot, fog bank and brazier devices. Must stay readable over both sea and islands. Eight sequential frames from start to finish, loop cleanly; Row 3: Anchor plunges, chain rattles and the water swirls, for the brake and kedge devices. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 4: Hammers and fresh planks flicker over the hull while repairs run. Eight sequential frames from start to finish, loop cleanly"
+  },
+  {
+    "name": "vfx_atlas_08",
+    "fx_indices": [
+      28,
+      29,
+      30
+    ],
+    "layout": [
+      8,
+      4
+    ],
+    "transparent": true,
+    "prompt": "Create a TRANSPARENT sprite animation atlas for a warm painted pixel-art age-of-sail mobile game. EXACTLY 8 columns and 4 rows uniform grid. 2048 wide by 1024 high. Each row is a DIFFERENT effect, eight chronological frames LEFT TO RIGHT. Keep each effect on identical local coordinates and scale across all eight frames; NEVER auto-crop or shift a frame. Leave generous transparent gutters. Crisp pixel clusters, wood brass cream sails teal water, top-left light, no text no watermark no sci-fi. Row 1: A patch of burning oil on the water, tiled by code along the slick. Eight sequential frames from start to finish, loop cleanly; Row 2: An ink splash and skull seal across the screen centre when a boss enters a new phase. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 3: A tow chain snaps with sparks when a convoy segment is destroyed; matches K08. Eight sequential frames from start to finish, one shot, first frame small onset, last frame dissipated; Row 4: eight sequential tiny sea foam splashes, spare"
+  }
+]

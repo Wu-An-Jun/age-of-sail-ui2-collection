@@ -1,0 +1,29 @@
+{
+  "id": "V21",
+  "image": "sail_ripple.png",
+  "frame_width": 512,
+  "frame_height": 512,
+  "frame_count": 8,
+  "fps": 8,
+  "loop": true,
+  "columns": 8,
+  "rows": 1,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "source_keyframes": 8,
+  "frame_sampling": "nearest_keyframe_hold",
+  "source_frame_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "review_status": "integration_candidate",
+  "integration_note": "Standalone sail overlay: place using a manually chosen anchor; not a pixel-matched deformation of A05."
+}

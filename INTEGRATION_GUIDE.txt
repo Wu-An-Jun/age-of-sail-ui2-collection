@@ -1,0 +1,36 @@
+IMPORT AND LAYOUT
+PNG exports use RGB/RGBA. Preserve alpha and original transparent padding.
+Pixel artwork: nearest filtering, no lossy texture compression for text-adjacent UI.
+Nine-slice arrays are [left, top, right, bottom] in source pixels. Minimum target
+size must exceed sums of opposite slice margins. Sidecar JSON is provided where
+applicable. Avoid uniform scaling of frames when stretching panels.
+Reference: 1920x1080, header/footer 154 px, right panel 576 px, left rail 154-168 px,
+detail panel 720 px, combat columns 168-204 px. Reflow at small sizes rather than
+shrinking all text. 88 reference pixels become 29.3 logical pixels at 640 width;
+use at least 132 reference pixels for a 44 logical-pixel hit target at that scale.
+Keep live text contrast >=4.5:1; test text at 125%. Do not bake labels into panels.
+
+AUTOTILES AND OUTFITTING
+mask_00 is an interior tile; exposed edges are N=1, E=2, S=4, W=8.
+Combine bits by addition; mask_15 has all four exposed edges. inner_nw/ne/se/sw
+are separate concave corners, not numeric mask substitutes. Selected plates retain
+the same placement grid. Quality_standard is intentionally fully transparent.
+Three-piece mounts use the same canvas/pivot; confirm exact orientation and fit in
+the target equipment database. Stylized mount perspective requires art review.
+Profile tint masks are automatic candidate masks and need review on final hulls.
+
+ANIMATION
+Read each strip JSON and fx_manifest.json. Strips are horizontal, fixed-size frames.
+Eight source keyframes are sampled with frame holds to match the requested count.
+Honor loop=false at runtime; preview GIFs repeat only for inspection.
+Sail flutter is a standalone overlay, not a pixel-matched deformation of the logo
+ship. Match its anchor and clipping manually. Fill bars need runtime clipping.
+
+SOURCES AND REVIEW
+Layered PSD sheets have separate named raster components, normalized for editing;
+these do not reconstruct the generator's original paint layers. See layer_index.json.
+Source atlases include initial candidates plus correction atlases. Runtime exports
+and manifests take precedence. Mockups establish layout direction only.
+Faction emblems and skill categories use provisional semantic keys. Fleet tokens
+and mount perspective may need adjustment once actual camera conventions are known.
+No engine performance, input, accessibility or gameplay acceptance has been run.

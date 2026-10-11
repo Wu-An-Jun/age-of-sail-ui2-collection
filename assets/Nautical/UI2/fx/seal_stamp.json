@@ -1,0 +1,28 @@
+{
+  "id": "V04",
+  "image": "seal_stamp.png",
+  "frame_width": 256,
+  "frame_height": 256,
+  "frame_count": 8,
+  "fps": 24,
+  "loop": false,
+  "columns": 8,
+  "rows": 1,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "source_keyframes": 8,
+  "frame_sampling": "nearest_keyframe_hold",
+  "source_frame_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "review_status": "integration_candidate"
+}

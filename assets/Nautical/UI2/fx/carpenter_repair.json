@@ -1,0 +1,28 @@
+{
+  "id": "V28",
+  "image": "carpenter_repair.png",
+  "frame_width": 96,
+  "frame_height": 96,
+  "frame_count": 8,
+  "fps": 12,
+  "loop": true,
+  "columns": 8,
+  "rows": 1,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "source_keyframes": 8,
+  "frame_sampling": "nearest_keyframe_hold",
+  "source_frame_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "review_status": "integration_candidate"
+}
